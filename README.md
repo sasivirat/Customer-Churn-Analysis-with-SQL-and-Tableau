@@ -25,6 +25,21 @@ By the end of this project , you'll have the skills to analyze customer behavior
 ### **Tools & Technologies**:
 - **MySQL**: For querying and managing customer data.
 - **Tableau**: For creating data visualizations, including maps, cohort tables, and interactive dashboards.
+## - Topics
+ - Dashboard
+- MySQL query
+- Bar chart
+- Data visualization
+- Customer churn
+- Data analysis
+- Order frequency table
+- Bubble chart
+- Cohort analysis table
+- Line chart
+- Maps
+- SQL
+
+
 
 ---
 
